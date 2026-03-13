@@ -1,0 +1,6 @@
+#!/bin/bash
+#create a folder
+mkdir Brijesh
+# create a file inside the folder 
+cd Brijesh
+touch brijesh1 brijesh2 
