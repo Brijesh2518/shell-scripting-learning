@@ -1,0 +1,40 @@
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "anuj",
+            "UserId": "AIDAV2ABNQM7SA2PCU7JS",
+            "Arn": "arn:aws:iam::399434941247:user/anuj",
+            "CreateDate": "2025-12-25T15:29:45+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "deepak",
+            "UserId": "AIDAV2ABNQM7S7AW64TW3",
+            "Arn": "arn:aws:iam::399434941247:user/deepak",
+            "CreateDate": "2026-02-04T09:02:27+00:00",
+            "PasswordLastUsed": "2026-03-14T12:57:31+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "opencost-cur-reader",
+            "UserId": "AIDAV2ABNQM7QKIRM4LTT",
+            "Arn": "arn:aws:iam::399434941247:user/opencost-cur-reader",
+            "CreateDate": "2026-01-22T05:42:11+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "opencost-user",
+            "UserId": "AIDAV2ABNQM7XECMRA4IC",
+            "Arn": "arn:aws:iam::399434941247:user/opencost-user",
+            "CreateDate": "2026-01-29T12:32:47+00:00"
+        },
+        {
+            "Path": "/",
+            "UserName": "opstree-auditor",
+            "UserId": "AIDAV2ABNQM72QBDUGJY7",
+            "Arn": "arn:aws:iam::399434941247:user/opstree-auditor",
+            "CreateDate": "2026-01-16T08:50:41+00:00"
+        }
+    ]
+}
