@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Brijesh, this is my first shell script"
+echo "Hello Brijesh, This is my first shell script"
